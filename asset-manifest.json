@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/krovliaExpert/static/css/main.ee741439.css",
+    "main.css": "/krovliaExpert/static/css/main.88acc233.css",
     "main.js": "/krovliaExpert/static/js/main.63393802.js",
     "static/css/92.4288f02f.chunk.css": "/krovliaExpert/static/css/92.4288f02f.chunk.css",
     "static/js/92.b274a1a9.chunk.js": "/krovliaExpert/static/js/92.b274a1a9.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/453.1711b386.chunk.js": "/krovliaExpert/static/js/453.1711b386.chunk.js",
     "static/media/Click.jpg": "/krovliaExpert/static/media/Click.de81d9b3bb8ce2b9ef12.jpg",
     "index.html": "/krovliaExpert/index.html",
-    "main.ee741439.css.map": "/krovliaExpert/static/css/main.ee741439.css.map",
+    "main.88acc233.css.map": "/krovliaExpert/static/css/main.88acc233.css.map",
     "main.63393802.js.map": "/krovliaExpert/static/js/main.63393802.js.map",
     "92.4288f02f.chunk.css.map": "/krovliaExpert/static/css/92.4288f02f.chunk.css.map",
     "92.b274a1a9.chunk.js.map": "/krovliaExpert/static/js/92.b274a1a9.chunk.js.map",
@@ -30,7 +30,7 @@
     "453.1711b386.chunk.js.map": "/krovliaExpert/static/js/453.1711b386.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee741439.css",
+    "static/css/main.88acc233.css",
     "static/js/main.63393802.js"
   ]
 }
